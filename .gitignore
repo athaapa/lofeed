@@ -1,0 +1,8 @@
+misc/
+data/
+build/
+.cache/
+.cursor/
+
+.clang-format
+.DS_Store
